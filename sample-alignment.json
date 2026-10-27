@@ -1,0 +1,8 @@
+{
+  "words": [
+    { "text": "The", "start": 0.12, "end": 0.31 },
+    { "text": "room", "start": 0.32, "end": 0.61 },
+    { "text": "was", "start": 0.62, "end": 0.81 },
+    { "text": "quiet.", "start": 0.82, "end": 1.25 }
+  ]
+}

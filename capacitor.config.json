@@ -1,0 +1,6 @@
+{
+  "appId": "com.syncreader.app",
+  "appName": "SyncReader",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

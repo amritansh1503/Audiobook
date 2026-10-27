@@ -1,0 +1,25 @@
+{
+  "name": "sync-reader-mvp",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "cap:sync": "cap sync android",
+    "android:open": "cap open android"
+  },
+  "dependencies": {
+    "epubjs": "^0.3.93",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.5",
+    "@capacitor/cli": "^7.4.3"
+  }
+}
